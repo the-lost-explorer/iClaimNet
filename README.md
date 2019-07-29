@@ -3,6 +3,7 @@
 Data set to accompany **Truth Discovery and Fact Checking: Theory and Practice
 SIGKDD 2019 Workshop, August 5th, Anchorage, Alaska** paper "A Data Set of Internet Claims and Comparison of their Sentiments with Credibility"
 
+[Link to the paper.](https://truth-discovery-kdd2019.github.io/papers/dataset-internet-claims.pdf)
 
 
 ### Citation Information
