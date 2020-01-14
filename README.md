@@ -5,9 +5,9 @@ SIGKDD 2019 Workshop, August 5th, Anchorage, Alaska** paper "A Data Set of Inter
 
 This data set is aimed at supporting fake news analysis and research on social media.
 
-[Link to Conference Publication](https://truth-discovery-kdd2019.github.io/papers/dataset-internet-claims.pdf)
+[Conference Publication](https://truth-discovery-kdd2019.github.io/papers/dataset-internet-claims.pdf)
 
-[Link to arXiv](https://arxiv.org/abs/1911.10130)
+[arXiv](https://arxiv.org/abs/1911.10130)
 
 ### Citation Information
 If you use this data set in your research, please cite the following paper:
